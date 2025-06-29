@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": "1.41 billion (2024 estimate)",
+    "interestingFact": "China is home to the Great Wall, the longest man-made structure in the world."
+  },
+  {
+    "id": 2,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": "1.43 billion (2024 estimate)",
+    "interestingFact": "India is the birthplace of yoga, a spiritual and physical discipline practiced worldwide."
+  },
+  {
+    "id": 3,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": "339 million (2024 estimate)",
+    "interestingFact": "The U.S. has the world’s largest economy and is the birthplace of the internet."
+  },
+  {
+    "id": 4,
+    "countryName": "Brazil",
+    "capital": "Brasília",
+    "population": "215 million (2024 estimate)",
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 5,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": "144 million (2024 estimate)",
+    "interestingFact": "Russia is the largest country in the world by land area, spanning 11 time zones."
+  },
+  {
+    "id": 6,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": "26 million (2024 estimate)",
+    "interestingFact": "Australia is the only country that is also a continent."
+  },
+  {
+    "id": 7,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": "110 million (2024 estimate)",
+    "interestingFact": "Egypt is home to the Great Pyramid of Giza, one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 8,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": "123 million (2024 estimate)",
+    "interestingFact": "Japan has more than 6,800 islands and is known for its advanced technology and unique traditions."
+  },
+  {
+    "id": 9,
+    "countryName": "South Africa",
+    "capital": "Pretoria (administrative), Cape Town (legislative), Bloemfontein (judicial)",
+    "population": "61 million (2024 estimate)",
+    "interestingFact": "South Africa is the only country in the world with three capital cities."
+  },
+  {
+    "id": 10,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": "39 million (2024 estimate)",
+    "interestingFact": "Canada has the longest coastline of any country in the world."
+  }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "icon" :"MdPlace",
+        "title" :"Find Us",
+        "details" :"Pune, Maharashtra"
+    },
+    {
+        "icon" :"IoCallSharp",
+        "title" :"Call Us",
+        "details" :"6953626269"
+    },
+    {
+        "icon" :"TbMailPlus",
+        "title" :"Mail Us",
+        "details" :"Dhruv@gmail.com"
+    }
+    
+]
