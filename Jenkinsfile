@@ -1,19 +1,22 @@
 pipeline{
     agent any
-    stages("build"){
-      step{
-        echo 'building the application...'
-      }
+    stages{
+        stage('build'){
+            when{
+                expression{
+                    BRANCH_NAME = 'main' && CODE_CHANGES =true
+                }
+            }
+            steps {
+                echo 'building the application ...'
+            }
+        }
+        stage('test'){
+            when{
+                expression {
+                    BRANCH_NAME == 
+                }
+            }
+        }
     }
-    stage("test"){
-      step{
-        echo 'testing the application...'
-      }
-    }
-   stage("deploy"){
-      step{
-        echo 'deploying the application...'
-      }
-    }
-  }
 }
